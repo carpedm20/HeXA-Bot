@@ -144,7 +144,7 @@ def make_message(msg, name=''):
         result += total_command_list_str
 
     elif command in COMMAND['SEARCH_RANK']:
-        url = 'http://openapi.naver.com/search?key=6053ca2ccd452f386a6e2eb44375d160&query=nexearch&target=rank'
+        url = 'http://openapi.naver.com/search?key=&query=nexearch&target=rank'
 
         dom = minidom.parse(urllib.urlopen(url))
         data = dom.getElementsByTagName('K')
