@@ -1,0 +1,14 @@
+memo
+proxy
+emo*
+*.json
+*.sh
+tmp
+config*
+config.py*
+github
+ban.py*
+py*
+f.py*
+*.pyc
+bson
