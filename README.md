@@ -5,6 +5,8 @@
  
 This is a python code for HeXA Bot.
 
+** WARNING: VERY DIRTY!!! **
+
 
 Blog : http://carpedm20.blogspot.kr/2013/08/blog-post.html
 
